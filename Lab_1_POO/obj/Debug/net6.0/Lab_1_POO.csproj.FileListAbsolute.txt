@@ -1,0 +1,15 @@
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\bin\Debug\net6.0\Lab_1_POO.exe
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\bin\Debug\net6.0\Lab_1_POO.deps.json
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\bin\Debug\net6.0\Lab_1_POO.runtimeconfig.json
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\bin\Debug\net6.0\Lab_1_POO.dll
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\bin\Debug\net6.0\Lab_1_POO.pdb
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.csproj.AssemblyReference.cache
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.AssemblyInfoInputs.cache
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.AssemblyInfo.cs
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.csproj.CoreCompileInputs.cache
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.dll
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\refint\Lab_1_POO.dll
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.pdb
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\Lab_1_POO.genruntimeconfig.cache
+E:\! Automatica 3ro\Programacion Avanzada\Programas en C#\Laboratorio 1 este 1\Lab_1_POO\obj\Debug\net6.0\ref\Lab_1_POO.dll
